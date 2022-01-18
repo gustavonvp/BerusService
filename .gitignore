@@ -1,0 +1,6 @@
+# Project exclude paths
+/mssc-beer-inventory-service-master/target/
+/mssc-beer-service-master/target/
+/mssc-brewery-eureka-master/target/
+/mssc-config-server-master/target/
+/mssc-inventory-failover-master/target/
